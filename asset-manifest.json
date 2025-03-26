@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pokemmodex/static/css/main.f855e6bc.css",
+    "main.js": "/pokemmodex/static/js/main.0749ef56.js",
+    "static/js/453.a1b1870f.chunk.js": "/pokemmodex/static/js/453.a1b1870f.chunk.js",
+    "static/media/logo.svg": "/pokemmodex/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/pokemmodex/index.html",
+    "main.f855e6bc.css.map": "/pokemmodex/static/css/main.f855e6bc.css.map",
+    "main.0749ef56.js.map": "/pokemmodex/static/js/main.0749ef56.js.map",
+    "453.a1b1870f.chunk.js.map": "/pokemmodex/static/js/453.a1b1870f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.0749ef56.js"
+  ]
+}
